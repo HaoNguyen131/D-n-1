@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spikes
+  - Enemy
+  - Ground
+  - Portal
+  - Cube
+  - Water
+  - Lava
+  - Platforms
+  - ResistanceCollider
+  - Camera
+  - Potion
+  - ArrowPickup
+  - Heart
+  - Trampoline
+  - BouncyCube
+  - NextLevelLoader
+  - SceneManager
+  - PotionsUI
+  - HealthUI
+  - ArrowsUI
+  - Power
+  - PowerUI
+  - Lamp
+  - InGameMenu
+  - MenuControler
+  - colorDoors
+  - PressurePlates
+  - Blindness
+  - Soundtrack
+  - Mirror
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Ground
+  - Climbing
+  - Pickups
+  - Platforms
+  - PostProcessing
+  - PressurePlates
+  - Arrow
+  - Player
+  - NatureAndOther
+  - Cubes
+  - 
+  - Trampoline
+  - ResistanceCollider
+  - 
+  - SlimeBossBullet
+  - SlimeKing
+  - ColorDoors
+  - AcidBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 173280251
+    locked: 0
+  - name: Nature&Foreground
+    uniqueID: 3017289747
+    locked: 0
+  - name: Player&Enemies
+    uniqueID: 2206421191
+    locked: 0
+  - name: Ground
+    uniqueID: 1703952613
+    locked: 0
+  - name: Pickups
+    uniqueID: 2843231137
+    locked: 0
+  - name: Water
+    uniqueID: 2235783587
+    locked: 0
+  - name: Objects
+    uniqueID: 2644609181
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
